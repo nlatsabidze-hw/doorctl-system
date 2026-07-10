@@ -1,0 +1,13 @@
+# Real credentials — NEVER commit these.
+# Copy the matching .example file and fill in real values locally.
+pwa/config.js
+firmware/config.h
+.env
+.env.local
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
